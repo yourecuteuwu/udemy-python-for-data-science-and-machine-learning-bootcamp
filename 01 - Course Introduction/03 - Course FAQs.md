@@ -15,3 +15,9 @@ Sol. There is, it is called ISLR, an Introduction to Statistical Learning
 
 Sol. Contact support@udemy.com
 
+
+5. How to get certificate of completion?
+
+Sol. There is a guide on Udemy that gives you a step by step guide on getting your certificate of completion
+
+
