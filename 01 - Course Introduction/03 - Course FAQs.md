@@ -41,3 +41,17 @@ Sol. If you run the command `pwd` in your notebook, you will see the directory f
 
 Sol. To do that, you must `cd` into a different directory.
 
+11. How to open `.ipynb` files
+
+Sol.
+- You first need to install Python and Juypter Notebook. There is a guide on Python for that.
+- Put your `.ipynb` into some directory.
+- Navigate to that directory in terminal using `cd`
+- Type `juypter notebook` and a web browser should pop up.
+- Click on the notebook you want to see in the browser
+- Done!
+
+12. What to do if stuck or run into an error
+- Look up the answer on Google or StackOverflow
+- Look into the FAQ
+- Post a question into FAQ
