@@ -16,4 +16,6 @@ When we download Anaconda, Juypter will come installed.
 
 Download Anaconda by going to `anaconda.com`
 
+Can also just do `brew install --cask anaconda` which is what I did since I am on MacOS and didn't want to enter in my email.
+
 ---
