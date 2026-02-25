@@ -18,4 +18,8 @@ Download Anaconda by going to `anaconda.com`
 
 Can also just do `brew install --cask anaconda` which is what I did since I am on MacOS and didn't want to enter in my email.
 
+I then checked to make sure Anaconda was installed by running `brew list` which contained `anaconda` in the casks section and ran `/opt/homebrew/anaconda3/bin/conda init $(basename $SHELL)` which printed anaconda.
+
+I then went into Finder and opened up `Anaconda-Navigator`.
+
 ---
