@@ -22,4 +22,6 @@ I then checked to make sure Anaconda was installed by running `brew list` which 
 
 I then went into Finder and opened up `Anaconda-Navigator`.
 
+I ended up uninstalling `anaconda` and instead brew installed `miniforge` as I was told it was better for security as well as for licensing: `brew install --cask miniforge`.
+
 ---
