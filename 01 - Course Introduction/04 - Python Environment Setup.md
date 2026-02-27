@@ -1,4 +1,4 @@
-Overview:
+# Overview
 - Download Python and Anaconda
 - Download zip files of Notebooks
 - Open Juypter and explore different notebooks
@@ -23,5 +23,28 @@ I then checked to make sure Anaconda was installed by running `brew list` which 
 I then went into Finder and opened up `Anaconda-Navigator`.
 
 I ended up uninstalling `anaconda` and instead brew installed `miniforge` as I was told it was better for security as well as for licensing: `brew install --cask miniforge`.
+
+---
+
+## How to run Juypter when installed Miniforge via Homebrew:
+Make sure conda is installed: `conda --version`
+
+
+## Information on Environments
+An **Anaconda environment** is an isolated directory containing a specific Python interpreter, libraries, and dependencies, separate from other projects. It prevents version conflicts, allowing you to run different project requirements simultaneously on one machine. Environments ensure project reproducibility and manage diverse packages (Python, R, binaries) efficiently. 
+
+Key aspects of **Anaconda environments**:
+Isolation: Each environment is self-contained. Installing or updating a package in one environment does not affect others or your base system.
+Version Management: You can have one environment with Python 3.8 and another with 3.12, each using different versions of libraries like NumPy or Pandas.
+
+Base Environment: Upon installation, Anaconda creates a "base" environment, which should generally be kept clean to maintain stability.
+Management Commands:
+- Create: `conda create --name <env_name> <packages>`
+- Activate: `conda activate <env_name>`
+- List: `conda info --envs`
+
+Portability: Environments can be exported to a .yaml file to share with others, ensuring they can recreate the exact same setup. 
+
+Creating distinct environments for each project is considered best practice, as it prevents package conflicts and allows for testing new libraries without compromising existing work. 
 
 ---
