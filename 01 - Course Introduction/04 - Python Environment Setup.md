@@ -27,7 +27,8 @@ I ended up uninstalling `anaconda` and instead brew installed `miniforge` as I w
 ---
 
 ## How to run Juypter when installed Miniforge via Homebrew:
-Make sure conda is installed: `conda --version`
+1. Make sure conda is installed: `conda --version`
+2. Then I ran `conda create -n notebook python=3.11` to create a separate environment for the jupyter notebook
 
 
 ## Information on Environments
