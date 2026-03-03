@@ -30,7 +30,9 @@ I ended up uninstalling `anaconda` and instead brew installed `miniforge` as I w
 1. Make sure conda is installed: `conda --version`
 2. Then I ran `conda create -n notebook python=3.11` to create a separate environment for the jupyter notebook
 3. After that I needed to run this command: `eval "$(/opt/homebrew/Caskroom/miniforge/base/bin/conda shell.zsh hook)"` to configure terminal so that when we run the next command, we don't get an error.
-4. Run `conda activate notebook` to switch over to the notebook environment (can check for all Anaconda environments by running `conda info --envs`) - you should see something like this in your terminal: `(notebook) yourname@mac ~ %`
+4. Run `conda activate notebook` to switch over to the notebook environment (can check for all Anaconda environments by running `conda info --envs`) - you should see something like this in your terminal: `(notebook) yourname@mac ~ %`.
+5. Then run `conda install jupyterlab` to install Jupyter into the Anaconda environment: notebook.
+6. Then after installation is complete run `jupyter lab` and in `http://localhost:8888`, Jupyter will start running.
 
 ## Information on Environments
 An **Anaconda environment** is an isolated directory containing a specific Python interpreter, libraries, and dependencies, separate from other projects. It prevents version conflicts, allowing you to run different project requirements simultaneously on one machine. Environments ensure project reproducibility and manage diverse packages (Python, R, binaries) efficiently. 
