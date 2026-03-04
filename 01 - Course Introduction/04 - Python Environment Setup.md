@@ -34,6 +34,10 @@ I ended up uninstalling `anaconda` and instead brew installed `miniforge` as I w
 5. Then run `conda install jupyterlab` to install Jupyter into the Anaconda environment: notebook.
 6. Then after installation is complete run `jupyter lab` and in `http://localhost:8888`, Jupyter will start running.
 
+
+Additional:
+- Can make a directory and put all Jupyter project in there and then run `jupyter lab`
+
 ## Information on Environments
 An **Anaconda environment** is an isolated directory containing a specific Python interpreter, libraries, and dependencies, separate from other projects. It prevents version conflicts, allowing you to run different project requirements simultaneously on one machine. Environments ensure project reproducibility and manage diverse packages (Python, R, binaries) efficiently. 
 
