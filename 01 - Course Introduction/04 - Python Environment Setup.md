@@ -38,6 +38,8 @@ I ended up uninstalling `anaconda` and instead brew installed `miniforge` as I w
 Additional:
 - Can make a directory and put all Jupyter project in there and then run `jupyter lab` to run Jupyter so that the files that show up are only Jupyter related.
 
+-----
+
 ## Information on Environments
 An **Anaconda environment** is an isolated directory containing a specific Python interpreter, libraries, and dependencies, separate from other projects. It prevents version conflicts, allowing you to run different project requirements simultaneously on one machine. Environments ensure project reproducibility and manage diverse packages (Python, R, binaries) efficiently. 
 
@@ -56,3 +58,6 @@ Portability: Environments can be exported to a .yaml file to share with others, 
 Creating distinct environments for each project is considered best practice, as it prevents package conflicts and allows for testing new libraries without compromising existing work. 
 
 ---
+
+## Course Code
+To access course code go to the Resources tab under Python Environment Setup and download the zip file. Unzip the zip file and you got all the files!
