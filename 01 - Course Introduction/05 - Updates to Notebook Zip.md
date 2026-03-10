@@ -1,0 +1,1 @@
+Note that says they added numbers to lectures to be more organized.
