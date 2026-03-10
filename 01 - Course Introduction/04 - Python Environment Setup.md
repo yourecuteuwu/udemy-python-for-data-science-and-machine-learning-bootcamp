@@ -60,4 +60,6 @@ Creating distinct environments for each project is considered best practice, as 
 ---
 
 ## Course Code
-To access course code go to the Resources tab under Python Environment Setup and download the zip file. Unzip the zip file and you got all the files!
+To access course code go to the Resources tab under `Python Environment Setup` and download the zip file. Unzip the zip file and you got all the files!
+
+You can't open the Jupyter files (.ipynb) by double clicking the file, you must run `jupyter lab` and then open the files there.
