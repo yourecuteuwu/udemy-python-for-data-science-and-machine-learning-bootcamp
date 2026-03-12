@@ -4,6 +4,8 @@ First go over how to open a Jupyter notebook
 
 When you run `jupyter lab`, you web browser will show a Jupyter window with the files in the directory.
 
+![alt text](image-4.png)
+
 If you want to make a new Juypter file in that directory you can click the `+` and click `Python 3` under the Notebook section:
 
 ![alt text](image.png)
@@ -11,3 +13,6 @@ If you want to make a new Juypter file in that directory you can click the `+` a
 ![alt text](image-1.png)
 
 ![alt text](image-3.png)
+
+---
+
