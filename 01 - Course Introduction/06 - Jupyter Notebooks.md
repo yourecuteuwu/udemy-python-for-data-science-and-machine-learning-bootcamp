@@ -14,5 +14,21 @@ If you want to make a new Juypter file in that directory you can click the `+` a
 
 ![alt text](image-3.png)
 
+If you want to rename, right click on the `.ipynb` on the project finder on the right, and find and click on `Rename`.
+
+![alt text](image-5.png)
+
+Below is called a `cell`. You can put Python code in there and then click the run button to execute that cell.
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-6.png)
+
+
 ---
+
+Will start on `01 - Python Crash Course` folder
+
 
