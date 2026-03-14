@@ -4,6 +4,8 @@ First go over how to open a Jupyter notebook
 
 When you run `jupyter lab`, you web browser will show a Jupyter window with the files in the directory.
 
+Will start on `01 - Python Crash Course` folder
+
 ![alt text](image-4.png)
 
 If you want to make a new Juypter file in that directory you can click the `+` and click `Python 3` under the Notebook section:
@@ -24,11 +26,12 @@ Below is called a `cell`. You can put Python code in there and then click the ru
 
 ![alt text](image-8.png)
 
+Or you can click `Shift + Enter` whne you have selected cell to run a cell.
+
 ![alt text](image-6.png)
 
+If you click `Option + Enter`, that is a shortcut that puts a cell below another cell.
 
 ---
-
-Will start on `01 - Python Crash Course` folder
 
 
