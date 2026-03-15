@@ -32,6 +32,14 @@ Or you can click `Shift + Enter` whne you have selected cell to run a cell.
 
 If you click `Option + Enter`, that is a shortcut that puts a cell below another cell.
 
+How do you save the notebooks?
+- `Control + S`
+- Click the Floppy Disk
+- Auto saves every 2 minutes
+
+How to download the file?
+- Go to File > Download as > ... (select the file format you want)
+
 ---
 
 
